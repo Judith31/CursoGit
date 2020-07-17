@@ -1,9 +1,8 @@
 Hola mundo
 
-<<<<<<< HEAD
+
 linea 5
 linea 5 
-lineaijdklsadsad
-=======
 linea 5
->>>>>>> parent of cebabef... comit 2
+linea 5
+
