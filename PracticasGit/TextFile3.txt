@@ -4,6 +4,3 @@ linea3
 linea4
 linea 11
 linea 22
-linea 33
-linea 44
-linea 55
