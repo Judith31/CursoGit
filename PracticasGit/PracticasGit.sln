@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5982BB79-03D4-4D66-8E6A-E328124C03CF}"
 	ProjectSection(SolutionItems) = preProject
 		Archivo_local.txt = Archivo_local.txt
+		Archivo_rebase.txt = Archivo_rebase.txt
 		archivo_remoto.txt = archivo_remoto.txt
 		ArchivoImportante.txt = ArchivoImportante.txt
 		ArchivoNuevo.txt = ArchivoNuevo.txt
